@@ -2,7 +2,7 @@
 ## Metro Rail
 The "Online Metro Rail Ticket Booking System" is a comprehensive and user-friendly platform designed specifically for booking metro rail tickets in Bangladesh. Tailored to the needs of passengers and travelers utilizing the Bangladesh Metro Rail, its main aim is to offer hassle-free ticket booking, easy access to metro service details, effective user administration, and seamless responsiveness across various devices.
 
-## Conttibutors
+## Contributors
  # Antim  Riana  Shariar  Rejon  Shakila
 
 
